@@ -4,8 +4,8 @@
 </template>
 <script>
 export default {
-    name: BookItem,
-    props: 'book'
+    name: 'bookItem',
+    props: ['book']
 }
 </script>
 
